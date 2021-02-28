@@ -9,7 +9,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  *  RPC encode messagee to byte
  *
- * @Author: chaoben.cb
+ * @Author: shican.sc
  * @Date: 2021/2/26 11:30
  * @see
  */

@@ -18,7 +18,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * netty childhander init
  *
- * @Author: chaoben.cb
+ * @Author: shican.sc
  * @Date: 2021/2/25 17:36
  * @see
  */

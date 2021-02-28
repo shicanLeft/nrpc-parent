@@ -14,7 +14,7 @@ import java.util.concurrent.locks.AbstractQueuedSynchronizer;
 /**
  * future模式
  *
- * @Author: chaoben.cb
+ * @Author: shican.sc
  * @Date: 2021/2/26 16:33
  * @see
  */

@@ -12,7 +12,7 @@ import io.netty.handler.timeout.IdleStateHandler;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @Author: chaoben.cb
+ * @Author: shican.sc
  * @Date: 2021/2/28 14:56
  * @see
  */

@@ -1,7 +1,7 @@
 package com.nrpc.common.config;
 
 /**
- * @Author: chaoben.cb
+ * @Author: shican.sc
  * @Date: 2021/2/25 14:06
  * @see
  */

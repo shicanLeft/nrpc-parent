@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 客户端启动，自动注入需要远程调用的接口信息
  *
- * @Author: chaoben.cb
+ * @Author: shican.sc
  * @Date: 2021/2/26 14:55
  * @see
  */
